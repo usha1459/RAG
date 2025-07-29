@@ -65,8 +65,10 @@ streamlit run main.py
 5. Click Deploy
 
 ## 👩‍💻 Author
+```
 Prathyusha Kopur
 📫 kprathyusha799@gmail.com
 🌐 GitHub (https://github.com/usha1459) 
 LinkedIn (https://www.linkedin.com/in/prathyusha-kopur/)
+```
 
