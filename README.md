@@ -35,25 +35,25 @@ git clone https://github.com/usha1459/RAG.git
 cd RAG
 ```
 
-2. Install Requirements
+### 2. Install Requirements
 ```
 Copy code
 pip install -r requirements.txt
 ```
 
-3. Add API Keys
+### 3. Add API Keys
 Create a .env file in the root folder and add your Groq API key:
 
 ```
 GROQ_API_KEY=your_groq_api_key_here
 ```
 
-🧪 Run the App Locally
+### 🧪 Run the App Locally
 ```
 streamlit run main.py
 ```
 
-☁️ Deploy on Streamlit Cloud
+### ☁️ Deploy on Streamlit Cloud
 1. Push the repo to GitHub
 
 2. Visit https://streamlit.io/cloud
@@ -64,7 +64,7 @@ streamlit run main.py
 
 5. Click Deploy
 
-👩‍💻 Author
+## 👩‍💻 Author
 Prathyusha Kopur
 📫 kprathyusha799@gmail.com
 🌐 GitHub (https://github.com/usha1459) 
